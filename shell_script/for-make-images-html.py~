@@ -1,0 +1,7 @@
+#!python3
+
+import os
+import glob
+
+fs = glob.glob('./*')
+

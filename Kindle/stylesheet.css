@@ -1,0 +1,138 @@
+body {
+    font-family: "Helvetica Neue",
+      Arial,
+      "Hiragino Kaku Gothic ProN",
+      "Hiragino Sans",
+      Meiryo,
+      sans-serif;
+  }
+
+blockquote{
+padding-top: 0px;
+padding-bottom: 4px;
+padding-left: 8px;
+padding-right: 5px;
+font-size: 0.6em;
+background-color: floralwhite;
+}
+
+
+/**以下の部分**/
+  h2 {
+  font-size: 1.5em !important;
+  padding: 0.2em 0.4em;
+  color: #f6f2f2cb;
+  background: #da3b73;
+  border-left: solid 12px #e16655;
+  border-bottom: solid 3px #dddddd;
+}
+
+h3 {
+  font-size: 1.2em !important;
+  padding: 0.2em 0.4em;
+  color: white;
+  background: #555555;
+  border-left: solid 12px rgb(149, 158, 155);
+}
+
+li {
+  font-size: 0.8em;
+  color:darkolivegreen;
+}
+
+ 
+div.d1 {
+    padding-top: 12px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 5px;
+    font-size: 0.8em;
+    padding-left: 3em;
+    background-color: rgba(237, 221, 221, 0.384);
+    border-left:5px solid #e61515; /*線の設定*/
+
+  }
+
+  div.d2 {
+    padding-top: 12px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 5px;
+    font-size: 0.8em;
+    padding-left: 3em;
+    background-color: rgb(242, 238, 232);
+    border-left:5px solid #f37a17; /*線の設定*/
+
+  }
+  div.d3 {
+    padding-top: 12px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 5px;
+    font-size: 0.8em;
+    padding-left: 3em;
+    background-color: rgb(233, 243, 250);
+    border-left:5px solid #000000; /*線の設定*/
+
+  }
+  div.d4 {
+    padding-top: 12px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 5px;
+    font-size: 0.8em;
+    padding-left: 3em;
+    background-color: rgba(225, 229, 232, 0.131);
+    border-left:5px solid #484646b6; /*線の設定*/
+
+  }
+  div.q1 {
+    padding-top: 12px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 5px;
+    font-size: 0.8em;
+    padding-left: 3em;
+    background-color: rgb(219, 246, 235);
+    border-left:5px solid #02ac57; /*線の設定*/
+
+  }
+
+blockquote{
+  padding-top: 6px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 5px;
+  margin-top: -13px;
+  margin-left: 27px;
+  margin-bottom: 30px;
+  font-size: 0.7em;
+  background-color: rgb(231, 241, 249);
+}
+
+.tw {
+  color:rgb(223, 121, 184);
+
+}
+
+.p1 {
+  font-size: 17pt;
+  color:blue;
+}
+
+.p2 {
+  font-size: 17pt;
+  color:rgb(155, 31, 68);
+}
+
+figure{text-align:center;}
+figcaption{color:grey;font:10px arial; text-align: center;}
+
+div.img_name {
+  font-size: 0.8em; margin: -16px; margin-bottom: 12px; 
+  margin-top: -10px;
+  text-align: center;
+  color:#da3b73
+}
+
+// epub用のccs
